@@ -13,3 +13,5 @@ export default defineConfig({
     open: true // автоматически открывает браузер
   }
 });
+
+гщ87щ77
