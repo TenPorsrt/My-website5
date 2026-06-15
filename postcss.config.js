@@ -6,4 +6,3 @@ export default {
   ]
 }
 
-гнш67ш67ш
